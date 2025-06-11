@@ -1,23 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
-
-int cntChangedBits(int n, int k) {
-    int new_n = n | (1 << k);      
-    int diff = n ^ new_n;           
-
-    int cnt = 0;
-    while (diff) {
-        cnt += (diff & 1);        
-        diff >>= 1;
-    }
-
-    return cnt;
-}
-
 int main() {
     int n, k;
     cin >> n >> k;
-
-    cout << cntChangedBits(n, k) << endl;
+    int new_n = n | (1 << k);   
+    int diff = n ^ new_n;      
+    int cnt = 0;
+    while (diff) {
+        cnt += (diff & 1);    
+        diff >>= 1;
+    }
+    cout << cnt;
     return 0;
 }
