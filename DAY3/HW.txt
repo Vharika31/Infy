@@ -1,0 +1,27 @@
+Best Time to Buy And Sell Stock	Easy
+Longest Substring Without Repeating Characters	Medium
+Longest Repeating Character Replacement	Medium
+Permutation In String	Medium
+Minimum Window Substring	Hard
+Sliding Window Maximum	Hard
+-------------------------------------------------
+Binary Search	Binary Search	Easy
+Binary Search	Search a 2D Matrix	Medium
+Binary Search	Koko Eating Bananas	Medium
+Binary Search	Find Minimum In Rotated Sorted Array	Medium
+Binary Search	Search In Rotated Sorted Array	Medium
+Binary Search	Time Based Key Value Store	Medium
+Binary Search	Median of Two Sorted Arrays	Hard
+----------------------------------------------------------------
+Greedy	Maximum Subarray	Medium
+Greedy	Jump Game	Medium
+Greedy	Jump Game II	Medium
+Greedy	Gas Station	Medium
+Greedy	Hand of Straights	Medium
+Greedy	Merge Triplets to Form Target Triplet	Medium
+Greedy	Partition Labels	Medium
+Greedy	Valid Parenthesis String	Medium
+------------------------------------------------------------------
+Bit Manipulation	Missing Number	Easy
+Bit Manipulation	Sum of Two Integers	Medium
+Bit Manipulation	Reverse Integer	Medium

@@ -1,0 +1,57 @@
+13.06.2025
+DAY 3 (Batch 2)
+
+Topics covered : 
+Hashing
+Greedy
+
+Problems solved: 
+1)Max consecutive ones
+2)count elements with maximum frequency
+3)frind triplets with zero sum
+4)first unique character in string
+5)frequency in limited array
+6)find frequency
+7)first repeating character in string
+8)assign cookies
+9)N meeting in one room
+10)SJF
+
+Homework
+
+Best Time to Buy And Sell Stock	Easy
+Longest Substring Without Repeating Characters	Medium
+Longest Repeating Character Replacement	Medium
+Permutation In String	Medium
+Minimum Window Substring	Hard
+Sliding Window Maximum	Hard
+-------------------------------------------------
+Binary Search	Binary Search	Easy
+Binary Search	Search a 2D Matrix	Medium
+Binary Search	Koko Eating Bananas	Medium
+Binary Search	Find Minimum In Rotated Sorted Array	Medium
+Binary Search	Search In Rotated Sorted Array	Medium
+Binary Search	Time Based Key Value Store	Medium
+Binary Search	Median of Two Sorted Arrays	Hard
+----------------------------------------------------------------
+Greedy	Maximum Subarray	Medium
+Greedy	Jump Game	Medium
+Greedy	Jump Game II	Medium
+Greedy	Gas Station	Medium
+Greedy	Hand of Straights	Medium
+Greedy	Merge Triplets to Form Target Triplet	Medium
+Greedy	Partition Labels	Medium
+Greedy	Valid Parenthesis String	Medium
+------------------------------------------------------------------
+Bit Manipulation	Missing Number	Easy
+Bit Manipulation	Sum of Two Integers	Medium
+Bit Manipulation	Reverse Integer	Medium
+------------------------------------------------------------------
+Math & Geometry Rotate Image Medium
+Math & Geometry Spiral Matrix Medium
+Math & Geometry Set Matrix Zeroes Medium
+Math & Geometry Happy Number Easy
+Math & Geometry Plus One Easy
+Math & Geometry Pow(x, n) Medium
+Math & Geometry Multiply Strings Medium
+Math & Geometry Detect Squares Medium
